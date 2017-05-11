@@ -13,6 +13,9 @@ body {
   margin: 0;
   color: #333333;
 }
+.icon-background {
+    color: #bd1e1e;
+}
 article,
 aside,
 details,
